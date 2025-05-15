@@ -37,7 +37,7 @@ The only option I've changed is to remove the manufacture code mark
 - [SMA version](./GERBER-CmxSma.zip)  
 - [Soldered wires version](./GERBER-CmxRf.zip)
 
-Most compact option. Can handle 200W
+Most compact option for high power. Can handle 200W
 
 <img src="./img/CMX_RF.png" alt="cmx" width="600"/>
 
@@ -95,7 +95,7 @@ Outdated so it's difficult to find. Usually it's sold on ebay.
 - [SMA version](./GERBER-CmxSma.zip)  
 - [Soldered wires version](./GERBER-Qcn3Rf.zip)
 
-Can handle 15W.  
+Most compact option. Can handle 15W.  
 Very compact. To be used only with handheld radios.
 
 <img src="./img/QCN3_RF.png" alt="qcn3" width="500"/>
