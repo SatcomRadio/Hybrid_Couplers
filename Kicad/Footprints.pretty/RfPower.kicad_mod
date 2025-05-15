@@ -1,0 +1,197 @@
+(footprint "RfPower"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ACDC-Converter, 3W, Hahn-HS-400xx, THT https://www.schukat.com/schukat/schukat_cms_de.nsf/index/FrameView?OpenDocument&art=HS40009&wg=M7942")
+	(tags "Hahn ACDC-Converter THT")
+	(property "Reference" "REF**"
+		(at -10.14 -3.61 180)
+		(layer "F.SilkS")
+		(uuid "0617dc25-792d-4ced-b238-2c83cbaaa5d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RF Power"
+		(at -1 -0.25 0)
+		(layer "F.Fab")
+		(uuid "849f999a-c20a-4fff-9dd7-b11843d07873")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -20.14 -9.31 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20f71262-cf4b-4d76-af4a-5d9bcdef54e7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -20.14 -9.31 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad70892e-5565-480c-94da-61e50c9d5f8a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -20.14 -9.31 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df4c62cf-00d1-4848-a972-9388eacb38d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -25.5 -6.5)
+		(end 25.5 6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "fcd2e1dc-1218-4945-9774-1c7340b524a2")
+	)
+	(fp_rect
+		(start -26.25 -10.75)
+		(end 26.25 10.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "ee57e634-99b2-4710-9839-c193db3c6ff9")
+	)
+	(fp_text user "-3"
+		(at 21 -4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bd05ad97-9fb6-4bdc-b18b-60c61c854042")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IN"
+		(at -24.25 6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bdc8d134-8a9d-4982-8320-807e87749e48")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "-3"
+		(at -22 -2.5 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f5eaa516-0b37-45c3-a624-09cd0f991980")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "ISO"
+		(at 24 6 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f9c5e20a-6653-4f9a-9508-f9aac6ab2dd5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -10.14 0.69 0)
+		(layer "F.Fab")
+		(uuid "be564cc7-5290-443a-954a-d6f1021d98c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -23 -9.275 270)
+		(size 3 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4da68bd4-39c8-4e91-9a08-7fdb70992c1e")
+	)
+	(pad "2" smd rect
+		(at 23 -9.275 270)
+		(size 3 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2dca02a8-d73b-4e8a-9e83-840ace571b2e")
+	)
+	(pad "3" smd rect
+		(at -23 9.25 270)
+		(size 3 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c296c43a-9f78-4f17-93de-157de003df4c")
+	)
+	(pad "4" smd rect
+		(at 23 9.25 270)
+		(size 3 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d1df05fd-4756-4ad7-9abc-ea31d2d4f2fe")
+	)
+	(pad "5" thru_hole circle
+		(at -19 -3)
+		(size 5 5)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "98dff374-3552-4187-9bdd-c002ab6819c6")
+	)
+	(pad "5" thru_hole circle
+		(at 19 3)
+		(size 5 5)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "a38fa06a-b577-41b8-9b14-5fca5a559d3c")
+	)
+)
