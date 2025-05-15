@@ -58,7 +58,7 @@ Most compact option. Can handle 200W
 Can handle 200W
 There's few information about this coupler but it's usually sold with a 50 ohm resistance for free.
 
-<img src="./img/RfPower_RF.png" alt="rfpower" width="200"/>
+<img src="./img/RfPower_RF.png" alt="rfpower" width="500"/>
 
 ### BOM:
 
@@ -79,7 +79,7 @@ This resistance is often given for free when you buy the coupler:
 Can handle 250W
 Outdated so it's difficult to find. Usually it's sold on ebay.
 
-<img src="./img/Anaren_RF.png" alt="anaren" width="200"/>
+<img src="./img/Anaren_RF.png" alt="anaren" width="500"/>
 
 ### BOM:
 
@@ -98,7 +98,7 @@ Outdated so it's difficult to find. Usually it's sold on ebay.
 Can handle 15W
 Very compact. To be used only with handheld radios.
 
-<img src="./img/QCN3_RF.png" alt="qcn3" width="200"/>
+<img src="./img/QCN3_RF.png" alt="qcn3" width="500"/>
 
 ### BOM:
 
