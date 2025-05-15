@@ -4,7 +4,7 @@ This repo consists of different boards that use different devices to get [circul
 
 #### Please make sure to visit the [satcom radio website](https://satcomradio.github.io/) for more information
 
-<img src="./img/couplers.jpg" alt="swr" width="600"/>
+<img src="./img/couplers.jpg" alt="couplers" width="600"/>
 
 All the PCB boards have a version that where you can use SMA connectors or soldered wires.  
 If you want to use the SMA connector boards, you will need to buy:
@@ -19,7 +19,7 @@ Important!
 You must connect them correctly! Each port has to be a "dipole".  
 Depending on their orientation you will get RHCP or LHCP.
 
-<img src="./img/conn.png" alt="swr" width="500"/>
+<img src="./img/conn.png" alt="connection" width="500"/>
 
 ------
 
@@ -28,7 +28,7 @@ Depending on their orientation you will get RHCP or LHCP.
 Download the Gerber file you want from this repo and order it a jlcpcb with the default options.
 The only option I've changed is to remove the manufacture code mark
 
-<img src="./img/jlcpcb.png" alt="swr" width="500"/>
+<img src="./img/jlcpcb.png" alt="jlcpcb" width="500"/>
 
 ------
 
@@ -39,7 +39,7 @@ The only option I've changed is to remove the manufacture code mark
 
 Most compact option. Can handle 200W
 
-<img src="./img/CMX_RF.png" alt="swr" width="600"/>
+<img src="./img/CMX_RF.png" alt="cmx" width="600"/>
 
 ### BOM:
 
@@ -58,7 +58,7 @@ Most compact option. Can handle 200W
 Can handle 200W
 There's few information about this coupler but it's usually sold with a 50 ohm resistance for free.
 
-<img src="./img/RfPower_RF" alt="swr" width="200"/>
+<img src="./img/RfPower_RF.png" alt="rfpower" width="200"/>
 
 ### BOM:
 
@@ -79,7 +79,7 @@ This resistance is often given for free when you buy the coupler:
 Can handle 250W
 Outdated so it's difficult to find. Usually it's sold on ebay.
 
-<img src="./img/Anaren_RF" alt="swr" width="200"/>
+<img src="./img/Anaren_RF.png" alt="anaren" width="200"/>
 
 ### BOM:
 
@@ -98,7 +98,7 @@ Outdated so it's difficult to find. Usually it's sold on ebay.
 Can handle 15W
 Very compact. To be used only with handheld radios.
 
-<img src="./img/QCN3_RF" alt="swr" width="200"/>
+<img src="./img/QCN3_RF.png" alt="qcn3" width="200"/>
 
 ### BOM:
 
