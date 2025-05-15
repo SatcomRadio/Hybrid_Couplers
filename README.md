@@ -25,7 +25,7 @@ Depending on their orientation you will get RHCP or LHCP.
 
 ## Ordering the PCB:
 
-Download the Gerber file you want from this repo and order it a jlcpcb with the default options.
+Download the Gerber file you want from this repo and order it a jlcpcb with the default options.  
 The only option I've changed is to remove the manufacture code mark
 
 <img src="./img/jlcpcb.png" alt="jlcpcb" width="500"/>
@@ -55,7 +55,7 @@ Most compact option. Can handle 200W
 - [SMA version](./GERBER-RfPowerSma.zip)  
 - [Soldered wires version](./GERBER-RfPowerRf.zip)
 
-Can handle 200W
+Can handle 200W.  
 There's few information about this coupler but it's usually sold with a 50 ohm resistance for free.
 
 <img src="./img/RfPower_RF.png" alt="rfpower" width="500"/>
@@ -76,7 +76,7 @@ This resistance is often given for free when you buy the coupler:
 - [SMA version](./GERBER-AnarenSma.zip)  
 - [Soldered wires version](./GERBER-AnarenRf.zip)
 
-Can handle 250W
+Can handle 250W.  
 Outdated so it's difficult to find. Usually it's sold on ebay.
 
 <img src="./img/Anaren_RF.png" alt="anaren" width="500"/>
@@ -95,7 +95,7 @@ Outdated so it's difficult to find. Usually it's sold on ebay.
 - [SMA version](./GERBER-CmxSma.zip)  
 - [Soldered wires version](./GERBER-Qcn3Rf.zip)
 
-Can handle 15W
+Can handle 15W.  
 Very compact. To be used only with handheld radios.
 
 <img src="./img/QCN3_RF.png" alt="qcn3" width="500"/>
