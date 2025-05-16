@@ -56,14 +56,15 @@ Most compact option for high power. Can handle 200W
 - [Soldered wires version](./GERBER-RfPowerRf.zip)
 
 Can handle 200W.  
-There's few information about this coupler but it's usually sold with a 50 ohm resistance for free.
+Probably an old model made by "Florida RF Labs"
+There's no information about this coupler but it's usually sold with a 50 ohm resistance for free.
 
 <img src="./img/RfPower_RF.png" alt="rfpower" width="500"/>
 
 ### BOM:
 
 ```
-1x RF Power coupler (aliexpress.com/item/32886665884.html?)
+1x RF Power coupler (aliexpress.com/item/32886665884.html)
 
 This resistance is often given for free when you buy the coupler:
 1x RF 32-7001 50 ohm RF load (aliexpress.com/i/1005006266356008.html)
