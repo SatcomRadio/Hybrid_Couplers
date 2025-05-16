@@ -97,7 +97,7 @@ Outdated so it's difficult to find. Usually it's sold on ebay.
 - [Soldered wires version](./GERBER-Qcn3Rf.zip)
 
 Most compact option. Can handle 15W.  
-Very compact. To be used only with handheld radios.
+To be used only with handheld radios.
 
 <img src="./img/QCN3_RF.png" alt="qcn3" width="500"/>
 
